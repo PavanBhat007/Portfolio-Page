@@ -31,7 +31,7 @@ The project structure consists of the following main sections:
 
 ## Screenshots
 ![](./images/main-section.png)
-![](./images/abput-section.png)
+![](./images/about-section.png)
 ![](./images/skills-section.png)
 ![](./images/project-section-1.png)
 ![](./images/project-section-2.png)
