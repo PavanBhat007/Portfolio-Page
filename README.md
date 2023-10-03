@@ -30,6 +30,7 @@ The project structure consists of the following main sections:
 - **Contact Me Section**: Displays links to my social media profiles and email address for contact.
 
 ## Screenshots
+Live demo: https://brilliant-trifle-88d9ec.netlify.app/
 ![](./images/main-section.png)
 ![](./images/about-section.png)
 ![](./images/skills-section.png)
